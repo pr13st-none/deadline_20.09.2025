@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/xc/Desktop/deadline_20.09.2025/build",
-  "command": "/usr/bin/clang++ -g -o CMakeFiles/neatcounter.dir/main.cpp.o -c /home/xc/Desktop/deadline_20.09.2025/main.cpp",
-  "file": "/home/xc/Desktop/deadline_20.09.2025/main.cpp",
-  "output": "/home/xc/Desktop/deadline_20.09.2025/build/CMakeFiles/neatcounter.dir/main.cpp.o"
-}
-]
